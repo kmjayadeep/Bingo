@@ -1,0 +1,35 @@
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+
+.mynav{
+	#background-color: #7BCAD4;
+	background-color: #00444D;
+	height: 2.7em;
+	border-bottom: 1px solid #2E8DF8;
+}
+.mynav button,.mynav button:hover,.mynav button:active,.mynav button:focus{
+	background: transparent;
+	border: transparent;
+	font-size: 1.2em;
+	color: white
+}
+.play{
+	height: 40vh;
+	margin-top: 30vh;
+	text-align: center;
+}
+.play i{
+	font-size: 5em;
+	background-color: #00444D;
+	border-radius: 50%;
+	padding: 0.5em;
+	color: white;
+}
+.play div{
+	font-size: 2em;
+	margin-top: 0.5em;
+}
